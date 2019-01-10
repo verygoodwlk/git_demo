@@ -12,6 +12,10 @@ package com.qf;
  */
 public class Main {
 
+    public void aaa(){
+
+    }
+
     public static void main(String[] args) {
         System.out.println("Hello Java!!!");
     }
