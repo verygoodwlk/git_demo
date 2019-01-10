@@ -12,4 +12,7 @@ package com.qf;
  */
 public class Main {
 
+    public void abc(){
+
+    }
 }
